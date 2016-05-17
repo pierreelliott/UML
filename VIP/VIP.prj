@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?PowerDesigner AppLocale="UTF16" ID="{10459137-E88B-4E86-B5F2-BE91AF3B9947}" Label="" LastModificationDate="1463145245" Name="VIP" Objects="16" Symbols="1" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" signature="PRJ_MODEL_XML" version="15.3.0.3248"?>
+<?PowerDesigner AppLocale="UTF16" ID="{10459137-E88B-4E86-B5F2-BE91AF3B9947}" Label="" LastModificationDate="1463499227" Name="VIP" Objects="18" Symbols="2" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" signature="PRJ_MODEL_XML" version="15.3.0.3248"?>
 <!-- Veuillez ne pas modifier ce fichier -->
 
 <Model xmlns:a="attribute" xmlns:c="collection" xmlns:o="object">
@@ -464,11 +464,31 @@ LABL 0 Arial,8,N</a:FontList>
 <a:GradientFillMode>65</a:GradientFillMode>
 <a:CustomPictureType>4</a:CustomPictureType>
 <a:CustomTextMode>1</a:CustomTextMode>
-<a:CustomPictureID>A22D5E18-145F-40FF-9F10-AA32DB2E2032</a:CustomPictureID>
+<a:CustomPictureID>1E7E14D9-644F-4961-88CC-95A7B8245406</a:CustomPictureID>
 <a:GradientEndColor>16777215</a:GradientEndColor>
 <a:KeepAspect>1</a:KeepAspect>
 <c:Object>
 <o:ModelDocument Ref="o5"/>
+</c:Object>
+</o:ModelDocumentSymbol>
+<o:ModelDocumentSymbol Id="o6">
+<a:IconMode>2</a:IconMode>
+<a:Rect>((-11625,-8512), (-9226,-6113))</a:Rect>
+<a:LineColor>12034707</a:LineColor>
+<a:FillColor>16437422</a:FillColor>
+<a:ShadowColor>12632256</a:ShadowColor>
+<a:FontList>OBJSTRN 0 Arial,8,N
+DISPNAME 0 Arial,8,N
+LABL 0 Arial,8,N</a:FontList>
+<a:BrushStyle>6</a:BrushStyle>
+<a:GradientFillMode>65</a:GradientFillMode>
+<a:CustomPictureType>4</a:CustomPictureType>
+<a:CustomTextMode>1</a:CustomTextMode>
+<a:CustomPictureID>1E7E14D9-644F-4961-88CC-95A7B8245406</a:CustomPictureID>
+<a:GradientEndColor>16777215</a:GradientEndColor>
+<a:KeepAspect>1</a:KeepAspect>
+<c:Object>
+<o:ModelDocument Ref="o7"/>
 </c:Object>
 </o:ModelDocumentSymbol>
 </c:Symbols>
@@ -489,6 +509,19 @@ LABL 0 Arial,8,N</a:FontList>
 <a:Location>file:///%[PRJ_ROOT_DIR]%/AnalyseVIP.moo</a:Location>
 <a:Extension>moo</a:Extension>
 <a:ModelDocument.ModelID>62142464-8882-4765-A8B7-8AD0EC976B5B</a:ModelDocument.ModelID>
+<a:ModelClassID>18112060-1A4B-11D1-83D9-444553540000</a:ModelClassID>
+</o:ModelDocument>
+<o:ModelDocument Id="o7">
+<a:ObjectID>962F6AD1-E31B-47BA-973C-C94F5E1A5DEE</a:ObjectID>
+<a:Name>Publications</a:Name>
+<a:Code>Publications</a:Code>
+<a:CreationDate>1463498774</a:CreationDate>
+<a:Creator>p1503184</a:Creator>
+<a:ModificationDate>1463499227</a:ModificationDate>
+<a:Modifier>p1503184</a:Modifier>
+<a:Location>file:///%[PRJ_ROOT_DIR]%/Publications.moo</a:Location>
+<a:Extension>moo</a:Extension>
+<a:ModelDocument.ModelID>12C8FD10-5244-42E9-B15C-F13BE6A0D82C</a:ModelDocument.ModelID>
 <a:ModelClassID>18112060-1A4B-11D1-83D9-444553540000</a:ModelClassID>
 </o:ModelDocument>
 </c:ModelsAndFiles>
